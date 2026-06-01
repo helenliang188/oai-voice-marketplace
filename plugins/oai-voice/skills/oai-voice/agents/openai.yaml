@@ -1,0 +1,4 @@
+interface:
+  display_name: "OAI Voice"
+  short_description: "Rewrite comms with clear, evidence-led language"
+  default_prompt: "Use $oai-voice to rewrite this paragraph so it gets to the point, sounds natural, uses evidence, and explains key decisions through values."

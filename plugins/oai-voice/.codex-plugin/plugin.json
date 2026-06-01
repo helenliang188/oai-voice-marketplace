@@ -1,0 +1,38 @@
+{
+  "name": "oai-voice",
+  "version": "0.2.0",
+  "description": "Rewrite communications so they are direct, conversational, evidence-led, and values-grounded.",
+  "author": {
+    "name": "Helen Liang"
+  },
+  "repository": "https://github.com/helenliang188/oai-voice-marketplace",
+  "keywords": [
+    "oai-voice",
+    "communications",
+    "writing",
+    "voice",
+    "rewrite",
+    "editing",
+    "clear-writing",
+    "concise",
+    "evidence-led",
+    "values-grounded"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "OAI Voice",
+    "shortDescription": "Rewrite comms with clear, evidence-led language.",
+    "longDescription": "OAI Voice helps rewrite paragraphs, Slack posts, emails, docs, announcements, and leader communications so readers understand the point quickly, trust the claim because it is grounded in evidence, and see the values behind important decisions.",
+    "developerName": "Helen Liang",
+    "category": "Productivity",
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/bullseye.svg",
+    "logo": "./assets/bullseye.svg",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $oai-voice to rewrite this paragraph."
+    ]
+  }
+}

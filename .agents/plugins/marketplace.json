@@ -1,0 +1,20 @@
+{
+  "name": "oai-voice-marketplace",
+  "interface": {
+    "displayName": "OAI Voice"
+  },
+  "plugins": [
+    {
+      "name": "oai-voice",
+      "source": {
+        "source": "local",
+        "path": "./plugins/oai-voice"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -89,4 +89,5 @@ For larger rewrites, preserve the original format unless a cleaner structure is 
 - Do not change the user's substantive meaning without saying so.
 - Do not make unverified claims sound certain.
 - Do not add confidentiality-sensitive details unless the user provided them and they are needed.
+- If the user is specifically writing an announcement for Core, return the draft first, then remind them to run it by internalcomms@openai.com and review it with their comms partner before sharing.
 - Keep human review responsible for any downstream decision, especially for People, candidate, employee, performance, compensation, hiring, or promotion-related communications.
